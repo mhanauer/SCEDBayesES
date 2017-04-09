@@ -1,4 +1,5 @@
 # SCEDBayesES
+install_github("laandrad/SCEDbayes")
 library(SCEDbayes)
 
 # Level Person 1 
