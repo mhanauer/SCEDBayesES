@@ -1,4 +1,5 @@
 # SCEDBayesES
+library(devtools)
 install_github("laandrad/SCEDbayes")
 library(SCEDbayes)
 
